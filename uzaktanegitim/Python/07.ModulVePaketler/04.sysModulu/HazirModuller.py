@@ -1,5 +1,5 @@
 import sys
-print(*sys.path,sep="\n") # ython'un bir modülü (kütüphaneyi) çağırırken (import ederken) hangi klasörlere sırasıyla bakacağını gösteren yolları listeler.
+print(*sys.path,sep="\n") # python'un bir modülü (kütüphaneyi) çağırırken (import ederken) hangi klasörlere sırasıyla bakacağını gösteren yolları listeler.
 
 # Python'un arama listesine geçici olarak yeni bir klasör yolu ekler.
 sys.path.append("/home/ares/Desktop/Yazilimlar/YapayZeka/UzaktanEgitim/Python/01.ilkProjem/") # 

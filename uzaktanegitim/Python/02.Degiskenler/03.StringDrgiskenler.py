@@ -70,7 +70,7 @@ metin = metin.capitalize()
 print(metin) #Şermin ve faruk
 
 # 6.Index Fonksiyonu
-## belirtilen hardin kaçıcı indisde olduğunu söyler
+## belirtilen harfin kaçıncı indisde olduğunu söyler
 metin = "python programlama dili"
 # soldan sağa doğru arar
 print(metin.index("p")) #0
