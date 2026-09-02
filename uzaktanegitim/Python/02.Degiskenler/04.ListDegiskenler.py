@@ -56,6 +56,7 @@ print(liste)  # ['Ekmek', 'Elma', 'Peynir', 'Zeytin', 'Sucuk']
 # Silme
 liste = ["Elma", "Peynir", "Zeytin"]
 # print hangi elemanın silindiğini gösterir
+# not -> pop() içine birşey yazmazsak sondan eleman çıkarır
 print(liste.pop(1))  # Peynir
 print(liste)  # ['Elma', 'Zeytin']
 
